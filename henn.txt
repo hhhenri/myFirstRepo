@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is E0A6-A90F
+
+ Directory of C:\Users\Henri\myGit
+
+15/04/2017  05:23 PM    <DIR>          .
+15/04/2017  05:23 PM    <DIR>          ..
+15/04/2017  05:23 PM                 0 henn.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  42,821,648,384 bytes free
